@@ -1,5 +1,6 @@
 # dubbo-zookeeper
-注意：有两个repository，dubboConsumer(服务消费者)和dubboProvider(服务提供者)
+注意：有两个repository，dubboConsumer(服务消费者)和dubboProvider(服务提供者)  
+
 这是一个整合了dubbo、zookeeper、SpringMVC、Spring、Mybatis的用于dubbo学习入门的小Demo，为了更快学习，我从网上找来了这个小工程，
 东西还是比较简单的。网上搜了很多文章要么没代码，要么有代码但缺乏足够的说明，本示例绝对能让从没接触过dubbo的人很快入门。我也是
 刚入门，哈哈！
